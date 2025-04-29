@@ -1,4 +1,0 @@
-west:
-  command: /home/codespace/.python/current/bin/west build -b stm32f4_disco
-  topdir: /workspaces/stm32f407_syncforge_zephyr/stm32f407-project
-  version: 1.3.0

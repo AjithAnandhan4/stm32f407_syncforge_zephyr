@@ -1,0 +1,28 @@
+empty_file.o: \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/misc/empty_file.c \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/boards/arm/stm32f4_disco/stm32f4_disco.dts \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/st/f4/stm32f407Xg.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/common/mem.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/st/f4/stm32f407.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/st/f4/stm32f405.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/st/f4/stm32f401.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/st/f4/stm32f4.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/arm/armv7-m.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/common/skeleton.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/clock/stm32f4_clock.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/pwm/stm32_pwm.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/dma/stm32_dma.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/adc/stm32f4_adc.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/adc/stm32_adc.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/reset/stm32f2_4_7_reset.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/reset/stm32-common.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/sensor/qdec_stm32.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/dts/common/freq.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/modules/hal/stm32/dts/st/f4/stm32f407v(e-g)tx-pinctrl.dtsi \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/pinctrl/stm32-pinctrl-common.h \
+ /workspaces/stm32f407_syncforge_zephyr/stm32f407-project/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h
